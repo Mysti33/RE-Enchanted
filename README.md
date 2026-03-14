@@ -3,6 +3,8 @@
 [![Loader](https://img.shields.io/badge/Loader-Forge-orange)]()
 [![Status](https://img.shields.io/badge/Status-Beta-yellow)]()
 
+![RE:Enchanted](https://media.discordapp.net/attachments/1304431395611082796/1482313566160945152/0314-ezgif.com-video-to-gif-converter.gif?ex=69b67f96&is=69b52e16&hm=9e413b34e648386c75676487261f58d70e21ef344e2a5b2c1a4efbbc1d11ff03&=)
+
 **RE:Enchanted** is a Minecraft mod that adds a collection of unique and powerful enchantments to enhance gameplay. From weapons that heal you to boots that let you walk on lava, this mod makes your adventures more magical and fun.
 
 ---
