@@ -8,7 +8,7 @@ We welcome contributions from everyone, whether it's fixing bugs, adding feature
 ## How to Contribute
 
 ### 1. Reporting Bugs
-- Check the [Issues](https://github.com/Mysti33/Hastia-Additions/issues) page first to see if the bug has already been reported.  
+- Check the [Issues](https://github.com/Mysti33/RE-Enchanted/issues) page first to see if the bug has already been reported.  
 - If it hasn't, open a **new issue** with:
   - A clear title
   - Steps to reproduce the bug
