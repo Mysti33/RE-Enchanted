@@ -1,0 +1,41 @@
+{
+  "_fv": 79,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Super Jump",
+    "supportedSlots": "feet",
+    "weight": 10,
+    "anvilCost": 1,
+    "maxLevel": 3,
+    "damageModifier": 0,
+    "incompatibleEnchantments": [
+      {
+        "value": "CUSTOM:StepAssist"
+      }
+    ],
+    "supportedItems": [
+      {
+        "value": "Items.LEATHER_BOOTS"
+      },
+      {
+        "value": "Items.CHAINMAIL_BOOTS"
+      },
+      {
+        "value": "Items.IRON_BOOTS"
+      },
+      {
+        "value": "Items.GOLDEN_BOOTS"
+      },
+      {
+        "value": "Items.DIAMOND_BOOTS"
+      },
+      {
+        "value": "Items.NETHERITE_BOOTS"
+      }
+    ],
+    "isTreasureEnchantment": true,
+    "isCurse": false,
+    "canGenerateInLootTables": true,
+    "canVillagerTrade": true
+  }
+}

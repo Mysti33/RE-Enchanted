@@ -1,0 +1,37 @@
+{
+  "_fv": 79,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Tree Feller",
+    "supportedSlots": "hand",
+    "weight": 10,
+    "anvilCost": 1,
+    "maxLevel": 3,
+    "damageModifier": 0,
+    "incompatibleEnchantments": [],
+    "supportedItems": [
+      {
+        "value": "Items.WOODEN_AXE"
+      },
+      {
+        "value": "Items.STONE_AXE"
+      },
+      {
+        "value": "Items.IRON_AXE"
+      },
+      {
+        "value": "Items.GOLDEN_AXE"
+      },
+      {
+        "value": "Items.DIAMOND_AXE"
+      },
+      {
+        "value": "Items.NETHERITE_AXE"
+      }
+    ],
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "canGenerateInLootTables": true,
+    "canVillagerTrade": true
+  }
+}

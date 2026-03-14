@@ -1,0 +1,22 @@
+{
+  "_fv": 79,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Magnetic",
+    "supportedSlots": "any",
+    "weight": 10,
+    "anvilCost": 1,
+    "maxLevel": 2,
+    "damageModifier": 0,
+    "incompatibleEnchantments": [],
+    "supportedItems": [
+      {
+        "value": "TAG:minecraft:enchantable/head_armor"
+      }
+    ],
+    "isTreasureEnchantment": true,
+    "isCurse": false,
+    "canGenerateInLootTables": true,
+    "canVillagerTrade": true
+  }
+}

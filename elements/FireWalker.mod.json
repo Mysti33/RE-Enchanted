@@ -1,0 +1,38 @@
+{
+  "_fv": 79,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Fire Walker",
+    "supportedSlots": "any",
+    "weight": 10,
+    "anvilCost": 1,
+    "maxLevel": 3,
+    "damageModifier": 0,
+    "incompatibleEnchantments": [
+      {
+        "value": "FROST_WALKER"
+      }
+    ],
+    "supportedItems": [
+      {
+        "value": "Items.CHAINMAIL_BOOTS"
+      },
+      {
+        "value": "Items.IRON_BOOTS"
+      },
+      {
+        "value": "Items.GOLDEN_BOOTS"
+      },
+      {
+        "value": "Items.DIAMOND_BOOTS"
+      },
+      {
+        "value": "Items.NETHERITE_BOOTS"
+      }
+    ],
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "canGenerateInLootTables": true,
+    "canVillagerTrade": true
+  }
+}

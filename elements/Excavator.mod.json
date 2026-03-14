@@ -1,0 +1,44 @@
+{
+  "_fv": 79,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Excavator",
+    "supportedSlots": "any",
+    "weight": 10,
+    "anvilCost": 1,
+    "maxLevel": 3,
+    "damageModifier": 0,
+    "incompatibleEnchantments": [
+      {
+        "value": "CUSTOM:Thermal"
+      },
+      {
+        "value": "CUSTOM:VeinMiner"
+      }
+    ],
+    "supportedItems": [
+      {
+        "value": "Items.WOODEN_PICKAXE"
+      },
+      {
+        "value": "Items.STONE_PICKAXE"
+      },
+      {
+        "value": "Items.IRON_PICKAXE"
+      },
+      {
+        "value": "Items.GOLDEN_PICKAXE"
+      },
+      {
+        "value": "Items.DIAMOND_PICKAXE"
+      },
+      {
+        "value": "Items.NETHERITE_PICKAXE"
+      }
+    ],
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "canGenerateInLootTables": true,
+    "canVillagerTrade": true
+  }
+}
