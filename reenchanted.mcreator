@@ -1,0 +1,452 @@
+{
+  "mod_elements": [
+    {
+      "name": "MagneticCode",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "magnetic_code",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/MagneticCode.java"
+        ]
+      }
+    },
+    {
+      "name": "Magnetic",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magnetic",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/enchantment/MagneticEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "Photosynthesis",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "photosynthesis",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/enchantment/PhotosynthesisEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "PhotosynthesisCode",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "photosynthesis_code",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/PhotosynthesisCode.java"
+        ]
+      }
+    },
+    {
+      "name": "Impact",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "impact",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/enchantment/ImpactEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "Venomous",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "venomous",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/enchantment/VenomousEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "Thermal",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thermal",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/enchantment/ThermalEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "ImpactCode",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "impact_code",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/ImpactCode.java"
+        ]
+      }
+    },
+    {
+      "name": "VenomousCode",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "venomous_code",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/VenomousCode.java"
+        ]
+      }
+    },
+    {
+      "name": "ThermalCode",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "thermal_code",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/ThermalCode.java"
+        ]
+      }
+    },
+    {
+      "name": "VeinMiner",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vein_miner",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/enchantment/VeinMinerEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "VeinMinerCode",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "vein_miner_code",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/VeinMinerCode.java"
+        ]
+      }
+    },
+    {
+      "name": "TreeFeller",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tree_feller",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/enchantment/TreeFellerEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "TreeFellerCode",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "tree_feller_code",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/TreeFellerCode.java"
+        ]
+      }
+    },
+    {
+      "name": "AutoReplant",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "auto_replant",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/enchantment/AutoReplantEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "AutoReplantCode",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "auto_replant_code",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/AutoReplantCode.java"
+        ]
+      }
+    },
+    {
+      "name": "StepAssist",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "step_assist",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/enchantment/StepAssistEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "StepAssistCode",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "step_assist_code",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/StepAssistCode.java"
+        ]
+      }
+    },
+    {
+      "name": "NightVision",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "night_vision",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/enchantment/NightVisionEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "NightVisionCode",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "night_vision_code",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/NightVisionCode.java"
+        ]
+      }
+    },
+    {
+      "name": "DoubleJump",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "double_jump",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/enchantment/DoubleJumpEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "DoubleJumpCode",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "double_jump_code",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/DoubleJumpCode.java"
+        ]
+      }
+    },
+    {
+      "name": "Excavator",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "excavator",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/enchantment/ExcavatorEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "ExcavatorCode",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "excavator_code",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/ExcavatorCode.java"
+        ]
+      }
+    },
+    {
+      "name": "Shockwave",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shockwave",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/enchantment/ShockwaveEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "ShockwaveCode",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "shockwave_code",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/ShockwaveCode.java"
+        ]
+      }
+    },
+    {
+      "name": "FireWalker",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fire_walker",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/enchantment/FireWalkerEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "FireWalkerCode",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "fire_walker_code",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/FireWalkerCode.java"
+        ]
+      }
+    },
+    {
+      "name": "Vampiric",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vampiric",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/enchantment/VampiricEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "VampiricCode",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "vampiric_code",
+      "metadata": {
+        "files": [
+          "src/main/java/net/hastiagames/reenchanted/VampiricCode.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "enchantment.reenchanted.magnetic": "Magnetic",
+      "enchantment.reenchanted.photosynthesis": "Photosynthesis",
+      "enchantment.reenchanted.impact": "Impact",
+      "enchantment.reenchanted.venomous": "Venomous",
+      "enchantment.reenchanted.thermal": "Thermal",
+      "enchantment.reenchanted.vein_miner": "Vein Miner",
+      "enchantment.reenchanted.tree_feller": "Tree Feller",
+      "enchantment.reenchanted.auto_replant": "Auto Replant",
+      "enchantment.reenchanted.step_assist": "Step Assist",
+      "enchantment.reenchanted.night_vision": "Night Vision",
+      "enchantment.reenchanted.double_jump": "Super Jump",
+      "enchantment.reenchanted.excavator": "Excavator",
+      "enchantment.reenchanted.shockwave": "Shockwave",
+      "enchantment.reenchanted.fire_walker": "Fire Walker",
+      "enchantment.reenchanted.vampiric": "Vampiric"
+    },
+    "fr_fr": {
+      "enchantment.reenchanted.magnetic": "Magnétisme",
+      "enchantment.reenchanted.photosynthesis": "Photosynthèse",
+      "enchantment.reenchanted.impact": "Impacte",
+      "enchantment.reenchanted.venomous": "Veunimeux",
+      "enchantment.reenchanted.thermal": "Thermique",
+      "enchantment.reenchanted.vein_miner": "Mineur de filon",
+      "enchantment.reenchanted.tree_feller": "Coupeur d\u0027arbres",
+      "enchantment.reenchanted.auto_replant": "Auto replantation",
+      "enchantment.reenchanted.step_assist": "Aide à la marche",
+      "enchantment.reenchanted.night_vision": "Vision nocturne",
+      "enchantment.reenchanted.double_jump": "Super saut",
+      "enchantment.reenchanted.excavator": "Excavation",
+      "enchantment.reenchanted.shockwave": "Onde de choque",
+      "enchantment.reenchanted.fire_walker": "Semelles enflamées",
+      "enchantment.reenchanted.vampiric": "Vampirisme"
+    },
+    "es_es": {
+      "enchantment.reenchanted.magnetic": "Magnético",
+      "enchantment.reenchanted.photosynthesis": "Fotosíntesis",
+      "enchantment.reenchanted.impact": "Impacto",
+      "enchantment.reenchanted.venomous": "Venenoso",
+      "enchantment.reenchanted.thermal": "Térmico",
+      "enchantment.reenchanted.vein_miner": "Vein Miner",
+      "enchantment.reenchanted.tree_feller": "El talador",
+      "enchantment.reenchanted.auto_replant": "Replantación automática",
+      "enchantment.reenchanted.step_assist": "Step Assist",
+      "enchantment.reenchanted.night_vision": "Visión nocturna",
+      "enchantment.reenchanted.double_jump": "Super Salto",
+      "enchantment.reenchanted.excavator": "Excavadora",
+      "enchantment.reenchanted.shockwave": "Onda de choque",
+      "enchantment.reenchanted.fire_walker": "Caminante del fuego",
+      "enchantment.reenchanted.vampiric": "Vampírico"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/net/hastiagames/reenchanted/init/ReenchantedModEnchantments.java",
+      "src/main/resources/pack.mcmeta",
+      "src/main/resources/META-INF/mods.toml",
+      "src/main/java/net/hastiagames/reenchanted/ReenchantedMod.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "reenchanted",
+    "modName": "RE:Enchanted",
+    "version": "0.1.0",
+    "description": "ReEnchanted brings 50 unique enchantments to Minecraft, adding new powers for weapons, armor, and tools. From double jumps to lava walking and life-stealing strikes, each enchantment transforms how you explore, fight, and mine.",
+    "author": "HastiaGames",
+    "websiteURL": "https://github.com/Mysti33/RE-Enchanted",
+    "license": "MIT License",
+    "serverSideOnly": false,
+    "modPicture": "logo1",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Made by Hastia Games",
+    "modElementsPackage": "net.hastiagames.reenchanted"
+  },
+  "mcreatorVersion": 202500345720
+}
