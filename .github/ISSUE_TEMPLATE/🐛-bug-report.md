@@ -7,6 +7,8 @@ assignees: Mysti33
 
 ---
 
+# ⚠️ BEFORE REPORTING : Check in knonw bugs if your bug is already know by dev / Check other issues if someone else already report your bug !
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
